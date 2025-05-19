@@ -31,11 +31,11 @@ com.vinay.walmartassesment
 ```
 
 # Screenshots
-<img src="https://github.com/user-attachments/assets/fc728f6f-9311-41e7-87e5-efcbd82fedf1" alt="countriesList" width="300"/>
+<img src="https://github.com/user-attachments/assets/15ea1860-e073-4205-abf6-0a212668ee3b" alt="countriesListScreenShot" width="300"/>
 
 # Screen Recording
 
+https://github.com/user-attachments/assets/b59db9fd-3f7f-43a6-85fe-83bc18700d6f
 
-https://github.com/user-attachments/assets/403f8406-50be-4433-8c5a-8bdc752e120f
 
 
