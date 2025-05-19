@@ -18,11 +18,11 @@ com.vinay.walmartassesment
 │   ├── dto             # CountryResponse, Currency, Language
 │   ├── mappers         # Mapper, Imapper
 │   ├── remote          # ApiClient and ApiService
-│   └── repositories    # CountryRepository
+│   └── repository    # CountryRepository
 │
 ├── domain
 │   ├── data            # Country
-│   ├── irepository     # ICountryRepository
+│   ├── repository     # ICountryRepository
 │   └── usecase         # CountryUseCase
 │
 ├── presentation
