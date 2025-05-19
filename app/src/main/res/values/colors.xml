@@ -3,5 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="error">#E40C0C</color>
+    <color name="recycleViewBackground">#D6D7DC</color>
+
 
 </resources>
